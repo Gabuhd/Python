@@ -1,2 +1,2 @@
 # Python
-Python. Além disso, python. E também, Python.
+Python. Além disso, Python. E também, Python.
